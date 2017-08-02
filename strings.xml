@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    
+    <string name="app_name">Speak Write Japanese Verbs</string>
+	
+	<string name="verbs">Japanese verbs are unique because most of them end with u (present tense). Also, Japanese verbs don\'t have a future tense, as verbs in English do. 
+		The present tense is also used as the future tense.  \n\n
+		Japanese verbs can be formal or informal, depending on who your speaking to.  Informal is usually used when you know the person, and formal is used in a more formal situation, like someone you meet for the first time or someone of social status.\n\n
+		<i>In this app you can read the <u>present tense </u>of common Japanese verbs, as well as the <u>past tense informal.</u></i>\n\n
+		The Japanese verbs are written using Hiragana, one of the three Japanese alphabets. Hiragana is the easiest to learn. Words and complete sentences can be written with hiragana.  Hiragana has 46 single and several combination letters.  These letters each have a unique pronunciation.\n\n
+		Unlike English, Japanese words are spoken and written differently, as shown in the verb examples. There are no spaces between written words in Japanese.  Also unique to Japanese writing;\n\n Verbs are placed at the end of sentences; \n\n I, He, she, they, them, all use the same verb, there is no plural form,\n\n
+		Nouns do not have a plural form or gender.\n\n
+		Pronouncing certain letters in Japanese have  rules also. We will explain some of them.\n\n
+		The letter i is pronounced as e, in most cases. \n For example, the verb iku, is pronounced as eku;\n
+		\nAnd, shi in a word is pronounced as, she; \nFor example, tanoshimu, is pronounced as tanoshemu;\n
+		\nThe letters tsu, you do not pronounce the s; \nFor example, the verb tsuku, is pronounced as tuku
+		
+	</string>
+</resources>
